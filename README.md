@@ -8,7 +8,7 @@ I'm Sara Sisti, a software & AI developer, artist and tireless bookworm 🪱
 - 💬 Ask me about Art, AI, the mistery of consciousness
 
 ### More about me
-My name is Sara Sisti and I'm from Milan. I obtained my bachelor and master degrees in Statistics and Data Science at University of Milan, Bicocca. I then started my career in the field, first as a data scientist and later as a AI and software developer. 
+My name is Sara Sisti and I'm from Milan. I obtained my bachelor and master degrees in Statistics and Data Science at University of Milan, Bicocca. I then started my career in the field, first as a data scientist and later as a software & AI developer. 
 Besides work, I’m an art lover in every possible way, I enjoy admiring it in museums and I love experimenting with clay, paint, collage, digital art and creative coding. I’m also a tireless bookworm, especially of dystopian and sci-fi novels, and I like learning new things about the most diverse fields: right now I’m deep into mycology and neuroscience. 
 
 ### Tech Stack
