@@ -3,8 +3,8 @@ I'm Sara Sisti, a software & AI developer, artist and tireless bookworm 🪱
 
 - 😄 Pronouns: she/her
 - 📍 From Milan (Italy) 
-- 🔭 I’m currently working as a software and AI Developer
-- 🌱 I’m currently learning Creative Coding 
+- 🔭 I’m currently working as a Freelance software and AI Developer
+- 🌱 I’m currently learning Creative Coding and Touchdesigner
 - 💬 Ask me about Art, AI, the mistery of consciousness
 
 ### More about me
@@ -33,4 +33,5 @@ If you want to get in touch with me, you can reach out via:
 - [Email](mailto:sarasisti.mi@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/sara-sisti-b169a1141/)
 - [YouTube](https://www.youtube.com/channel/UCsZc8sRsmylHNLfBWyXJfRw)
+- [Medium](https://medium.com/@sarasisti.mi)
 
