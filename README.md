@@ -16,6 +16,11 @@ If you want to get in touch with me, you can reach out via:
 - [Website](https://www.sarasisti.com)
 - [Email](mailto:sarasisti.mi@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/sara-sisti-b169a1141/)
+
+You can otherwise follow me on: 
 - [YouTube](https://www.youtube.com/channel/UCsZc8sRsmylHNLfBWyXJfRw)
 - [Medium](https://medium.com/@sarasisti.mi)
-
+- [Twitter](https://twitter.com/sarasixti)
+- [Instagram](https://www.instagram.com/sarasixti/) (Personal Profile)
+- [Instagram](https://www.instagram.com/_rebelot/) (Artistic Profile)
+- [Goodreads](https://www.goodreads.com/user/show/104640120-sarasixti)
