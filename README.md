@@ -1,5 +1,5 @@
 ### Hello! Nice to meet you 👽
-I'm Sara Sisti, a software & AI developer, artist and tireless bookworm 🪱 
+I'm Sara Sisti, a freelance software & AI developer, artist and tireless bookworm 🪱 
 
 - 😄 Pronouns: she/her
 - 📍 From Milan (Italy) 
