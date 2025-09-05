@@ -1,15 +1,16 @@
 ### Hello! Nice to meet you 👽
-I'm Sara Sisti, a freelance software & AI developer, artist and tireless bookworm 🪱 
+I'm Sara Sisti, a freelance Freelance software and AI Developer, Researcher, Artist and Lecturer 🔭
 
 - 😄 Pronouns: she/her
 - 📍 From Milan (Italy) 
-- 🔭 I’m currently working as a Freelance software and AI Developer
-- 🌱 I’m currently learning Creative Coding and Touchdesigner
+- 🌱 I’m currently trying to master oil pastels and oil painting
 - 💬 Ask me about Art, AI, the mistery of consciousness
 
 ### More about me
-My name is Sara Sisti and I'm from Milan. I obtained my bachelor and master degrees in Statistics and Data Science at University of Milan, Bicocca. I then started my career in the field, first as a data scientist and later as a software & AI developer. 
-Besides work, I’m an art lover in every possible way, I enjoy admiring it in museums and I love experimenting with clay, paint, collage, digital art and creative coding. I’m also a tireless bookworm, especially of dystopian and sci-fi novels, and I like learning new things about the most diverse fields: right now I’m deep into mycology and neuroscience. 
+My name is Sara Sisti and I’m a software & AI developer, artist, and researcher based in Milan.
+I hold a bachelor’s and master’s degree in Statistics and Data Science from the University of Milan-Bicocca. Over the past years I’ve worked across data science, software engineering, and AI research. I'm having a lot of fun exploring comfyUI and open source models for creative AI. 
+
+Outside of work, I explore the intersections of art and technology through painting, generative AI, and multimedia art. I’m also an avid reader and I’m endlessly curious about new fields, currently diving into neuroscience and non-ordinary states of consciousness.
 
 ### Contact Me
 If you want to get in touch with me, you can reach out via:
