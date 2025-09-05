@@ -23,5 +23,5 @@ You can otherwise follow me on:
 - [Medium](https://medium.com/@sarasisti.mi)
 - [Twitter](https://twitter.com/sarasixti)
 - [Instagram](https://www.instagram.com/sarasixti/) (Personal Profile)
-- [Instagram](https://www.instagram.com/_rebelot/) (Artistic Profile)
+- [Instagram](https://www.instagram.com/sarasisti.art/) (Artistic Profile)
 - [Goodreads](https://www.goodreads.com/user/show/104640120-sarasixti)
